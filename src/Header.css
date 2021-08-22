@@ -35,7 +35,7 @@
 .header__right {
     display: flex;
     /* align-items: center; */
-    /* justify-content: space-between; */
+    justify-content: space-between;
     width: 15vw; /*1vw = 1% of viewport width*/
     margin-right: 80px;
 }
