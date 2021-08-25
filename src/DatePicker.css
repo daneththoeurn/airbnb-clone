@@ -36,11 +36,11 @@
     
     position: absolute;
     left: 0;
-    top: 453px;
+    top: 430px;
     text-transform: inherit !important;
     background-color: #ff7779;
     color: white;
-    width: 570px;    
+    width: 580px;    
 }
 .date_picker button:hover {
     background-color: white; 
